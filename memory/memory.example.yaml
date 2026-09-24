@@ -1,0 +1,3 @@
+scope: project
+retention_days: 30
+allow_sensitive_data: false

@@ -1,0 +1,7 @@
+agent:
+  default_provider: codex
+  max_iterations: 20
+  timeout_seconds: 600
+
+logging:
+  level: INFO

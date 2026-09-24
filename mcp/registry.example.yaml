@@ -1,0 +1,4 @@
+servers:
+  - name: example
+    command: example-mcp-server
+    enabled: false

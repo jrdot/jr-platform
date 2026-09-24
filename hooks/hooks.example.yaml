@@ -1,0 +1,7 @@
+hooks:
+  pre_task:
+    - validate_workspace
+  post_task:
+    - summarize_changes
+  on_error:
+    - capture_diagnostics

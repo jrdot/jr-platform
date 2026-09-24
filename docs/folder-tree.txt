@@ -1,0 +1,92 @@
+[F] .gitignore
+[F] AGENTS.md
+[F] CONTRIBUTING.md
+[F] LICENSE
+[F] README.md
+[F] SECURITY.md
+[D] agents
+  [F] README.md
+  [F] reviewer.example.md
+[D] artifacts
+  [F] README.md
+[D] backlog
+  [F] README.md
+[D] config
+  [F] README.md
+  [F] agent.example.yaml
+[D] context
+  [F] README.md
+  [F] environment.example.md
+[D] decisions
+  [F] ADR-0001-example.md
+  [F] README.md
+[D] docs
+  [F] README.md
+[D] evals
+  [F] README.md
+  [F] basic-eval.example.yaml
+[D] examples
+  [F] README.md
+[D] fixtures
+  [F] README.md
+[D] hooks
+  [F] README.md
+  [F] hooks.example.yaml
+[D] human
+  [F] README.md
+[D] instructions
+  [F] README.md
+  [F] file-handling.example.md
+[D] knowledge
+  [F] README.md
+  [F] glossary.example.md
+[D] logs
+  [F] README.md
+[D] mcp
+  [F] README.md
+  [F] registry.example.yaml
+[D] memory
+  [F] README.md
+  [F] memory.example.yaml
+[D] notes
+  [F] README.md
+  [F] idea.example.md
+[D] output
+  [F] README.md
+[D] policies
+  [F] README.md
+  [F] approval.example.md
+[D] private
+  [F] README.md
+[D] prompts
+  [F] README.md
+  [F] code-review.example.md
+[D] resources
+  [F] README.md
+[D] roadmap
+  [F] README.md
+[D] schemas
+  [F] README.md
+  [F] task.schema.example.json
+[D] scripts
+  [F] README.md
+  [F] check_structure.py
+[D] skills
+  [F] README.md
+  [D] git-review
+    [F] SKILL.md
+[D] src
+  [F] README.md
+[D] templates
+  [F] README.md
+  [F] task.template.md
+[D] tests
+  [F] README.md
+[D] tmp
+  [F] README.md
+[D] tools
+  [F] README.md
+  [F] registry.example.yaml
+[D] workflows
+  [F] README.md
+  [F] change-and-verify.example.md

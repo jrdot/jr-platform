@@ -1,0 +1,12 @@
+tools:
+  - name: filesystem.read
+    risk: low
+    approval: false
+
+  - name: filesystem.delete
+    risk: high
+    approval: true
+
+  - name: shell.exec
+    risk: medium
+    approval: conditional
